@@ -54,6 +54,7 @@
 | [iAsk.AI](https://iask.ai/?ref=awe50meAI) |     Ask AI Questions – Free AI Search Engine  |
 | [komo](https://komo.ai/?ref=awe50meAI) |     Komo search - Ai Search & Explore  |
 | [Andi](https://andisearch.com/?ref=awe50meAI) |     Welcome to the next generation of search using the power of AI  |
+| [Kognitium](https://kognitium.com/) | An advanced AI that provides insightful information and ready-to-use code snippets for a wide range of topics to enrich your learning and exploration experience. |
 
 ## writing tools
 | Awesome | Description |
