@@ -35,6 +35,7 @@
 | [alicent](https://alicent.ai/?ref=awe50meAI) |     A Gorgeous Extension for ChatGPT  |
 | [godmode](https://godmode.space/?ref=awe50meAI) |   |
 | [PageLines](https://www.pagelines.com/?ref=awe50meAI) | AI Agents to Enhance Your Website |
+| [Tune AI](https://chat.tune.app/) | AI chat app powered by open source models |
 
 ## All-in-one tools
 | Awesome | Description |
