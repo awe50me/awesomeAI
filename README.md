@@ -32,6 +32,7 @@
 | [Channel](https://www.usechannel.com/?ref=awe50meAI) |     Ask any data question, in plain English.  |
 | [wonderchat](https://wonderchat.io/?ref=awe50meAI) |     Instantly build an AI chatbot with your knowledge base  |
 | [Monica](https://monica.im/?ref=awe50meAI) |     YOUR CHATGPT POWERED AI ASSISTANT ON ALL WEBSITES  |
+| [Jarvis](https://jarvis.cx) | Jarvis: Your AI Copilot on browser extensions, desktop, and mobile platforms  |
 | [alicent](https://alicent.ai/?ref=awe50meAI) |     A Gorgeous Extension for ChatGPT  |
 | [godmode](https://godmode.space/?ref=awe50meAI) |   |
 | [PageLines](https://www.pagelines.com/?ref=awe50meAI) | AI Agents to Enhance Your Website |
