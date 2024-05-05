@@ -39,6 +39,7 @@
 ## All-in-one tools
 | Awesome | Description |
 | --- | --- |
+| [AI/ML API](https://aimlapi.com/?utm_source=awe50meAI) | One API. 100+ AI Models. Accessible 24/7. |
 | [airOps](https://www.airops.com/?ref=awe50meAI) |     Deploy task-specific AI where you need it most with AirOps Apps. Install and configure in minutes, scalable, and available everywhere.  |
 | [Hugging Face](https://huggingface.co/?ref=awe50meAI) |     The AI community building the future.  |
 | [fotor](https://www.fotor.com/?ref=awe50meAI) |     Online photo editor for everyone  |
