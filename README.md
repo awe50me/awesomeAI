@@ -35,6 +35,8 @@
 | [alicent](https://alicent.ai/?ref=awe50meAI) |     A Gorgeous Extension for ChatGPT  |
 | [godmode](https://godmode.space/?ref=awe50meAI) |   |
 | [PageLines](https://www.pagelines.com/?ref=awe50meAI) | AI Agents to Enhance Your Website |
+| [Gali Chat](https://www.galichat.com/?ref=awe50meAI) | AI-powered chatbot handles the lead generation & customer service for you. |
+
 
 ## All-in-one tools
 | Awesome | Description |
