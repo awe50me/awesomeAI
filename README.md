@@ -1,7 +1,7 @@
 # Awesome AI
 > A curated list of awesome things related to artificial intelligence (AI).
 
-[conversational AI](#conversational-ai) - [All-in-one tools](#all-in-one-tools) - [AI Search Engine](#ai-search-engine) - [writing tools](#writing-tools) - [video tools](#video-tools) - [audio tools](#audio-tools) - [images tools](#images-tools) - [commerce & marketing tools](#commerce--marketing-tools) - [design tools](#design-tools) - [Coding tools](#coding-tools) - [color tools](#color-tools) - [miscellaneous](#miscellaneous)
+[conversational AI](#conversational-ai) - [All-in-one tools](#all-in-one-tools) - [AI Search Engine](#ai-search-engine) - [writing tools](#writing-tools) - [video tools](#video-tools) - [audio tools](#audio-tools) - [images tools](#images-tools) - [commerce & marketing tools](#commerce--marketing-tools) - [design tools](#design-tools) - [Coding tools](#coding-tools) - [color tools](#color-tools) - [llm ops](#llm-ops) - [miscellaneous](#miscellaneous) 
 ## conversational AI
 | Awesome | Description |
 | --- | --- |
@@ -390,6 +390,13 @@
 | [ColorGPT](https://colorgpt.vercel.app/?ref=awe50meAI) |     Generating color name captured from real-world using AI  |
 | [Chroma AI](https://chroma.szhao.dev/?ref=awe50meAI) |     Generate gradients based on your mood  |
 | [PatternedAI](https://www.patterned.ai/?ref=awe50meAI) |     Generate unique patterns for your product using AI!  |
+
+## llm ops
+| Awesome | Description |
+| --- | --- |
+| [Helicone AI](https://github.com/Helicone/helicone/) |     Helicone AI - Open-source LLM observability for developers.   |
+| [Mem0](https://github.com/mem0ai/mem0)  | Mem0 - The memory layer for Personalized AI    |
+| [LlamaIndex](https://github.com/run-llama/llama_index)  | LlamaIndex - LlamaIndex is a data framework for your LLM applications   |
 
 ## miscellaneous
 | Awesome | Description |
