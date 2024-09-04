@@ -459,3 +459,4 @@
 | [glass.ai](https://www.glass.ai/?ref=awe50meAI)| Transforming sector and company research with AI |
 | [ROCKSET](https://rockset.com/?ref=awe50meAI)| Build blazing fast search and AI applications in record time |
 | [fal](https://fal.ai/?ref=awe50meAI)| Build real-time AI applications with lightning fast inference (under ~120ms). |
+| [TooHot](https://toohot.app/)| Step into a world where you don’t just watch the story unfold—you shape it. Our interactive visual novel lets you engage directly with the characters, allowing your choices to influence the storyline and deepen your relationship with the characters. Every interaction matters, guiding you through a unique narrative experience filled with surprises and emotional depth. Just a friendly tip: it's TOOHOT! best enjoyed in private, so sneak in some playtime when you have a moment alone! |
