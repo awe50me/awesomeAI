@@ -227,6 +227,7 @@
 | [fathom](https://hello.fathom.fm/?ref=awe50meAI) |     Discover podcasts at the speed of thought with mind-blowing AI-powered Search, Transcripts, Chapters, Clipping, and Highlights.  |
 | [wavtool](https://wavtool.com/?ref=awe50meAI) | AI-accelerated music production. Make high-quality music with an AI assistant. In the browser, for free. |
 | [decoherence](https://www.decoherence.co/?ref=awe50meAI) | Make AI Music Videos |
+| [Kveeky](https://kveeky.com/) | AI Voiceover Artist for Your Next Video |
 
 ## images tools
 | Awesome | Description |
@@ -459,3 +460,4 @@
 | [glass.ai](https://www.glass.ai/?ref=awe50meAI)| Transforming sector and company research with AI |
 | [ROCKSET](https://rockset.com/?ref=awe50meAI)| Build blazing fast search and AI applications in record time |
 | [fal](https://fal.ai/?ref=awe50meAI)| Build real-time AI applications with lightning fast inference (under ~120ms). |
+| [Gracker AI](https://gracker.ai/)| AI Editorial and Programmatic SEO solution for B2B Cybersecurity SaaS companies. |
