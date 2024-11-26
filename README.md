@@ -257,6 +257,7 @@
 | [Stable Diffusion](https://stablediffusionweb.com/?ref=awe50meAI) |     Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.  |
 | [Playground AI](https://playgroundai.com/?ref=awe50meAI) | Create any image from your imagination |
 | [VectorArt.ai](https://vectorart.ai/?ref=awe50meAI) | Create vector images with AI |
+| [Zapimg.com](https://zapimg.com/?ref=awe50meAI) | Free Professional AI Image Editing Tools|
 
 ## commerce & marketing tools
 | Awesome | Description |
