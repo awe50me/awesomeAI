@@ -45,6 +45,7 @@
 | [Kittl](https://www.kittl.com/?ref=awe50meAI) |     Speed up your workflows with Kittl's AI-powered design tools and gain instant access to a ton of stunning illustrations, fonts, photos, icons, and textures.  |
 | [clipdrop](https://clipdrop.co/?ref=awe50meAI) |     Create stunning visuals in seconds  |
 | [Replicate](https://replicate.com/?ref=awe50meAI) | Machine learning doesn’t need to be so hard. |
+| [MindStudio](https://mindstudio.ai/?ref=awe50meAI) | MindStudio lets you rapidly build, deploy, and operate AI Workers — automations, applications, agents. Anyone can build AI Workers rapidly (typically in under 30 minutes). Over 150k AI Workers are deployed across all types of use cases and organizations. |
 
 ## AI Search Engine
 | Awesome | Description |
