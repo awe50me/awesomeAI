@@ -346,6 +346,7 @@
 | [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas/?ref=awe50meAI) |     Use AI to turn simple brushstrokes into realistic landscape images. Create backgrounds quickly, or speed up your concept exploration so you can spend more time visualizing ideas.  |
 | [Thumbly](https://thumbly.ai/?ref=awe50meAI) | Create YouTube thumbnails that get clicks |
 | [stylized](https://www.stylized.ai/?ref=awe50meAI) | A new way to take product photos. |
+| [Seede.ai](https://seede.ai/?ref=awe50meAI) | Create a stunning poster in just 1 minute. |
 
 ## Coding tools
 | Awesome | Description |
